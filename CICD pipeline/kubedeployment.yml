@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
        - name: app
-         image: 0056777/myproject1image4:docker
+         image: 056777/myproject1image4:docker
 ---
 kind: Service
 apiVersion: v1
